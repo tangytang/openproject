@@ -1,0 +1,4 @@
+x-cluster:
+  name: my_cluster_name
+x-vpc:
+  Lookup: vpc-id
